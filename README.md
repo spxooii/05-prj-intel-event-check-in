@@ -1,1 +1,1 @@
-# 05-prj-intel-event-check-in
+# Intel Sustainability Summit: Event Check-in App
